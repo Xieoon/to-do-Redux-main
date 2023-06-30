@@ -1,0 +1,16 @@
+.item {
+  font-family: monospace;
+  cursor: pointer;
+  line-height: 1.5;
+  color: #fff;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: lightgray;
+}
+
+.todo_box{
+  display: flex;
+  flex-direction: row;
+}
